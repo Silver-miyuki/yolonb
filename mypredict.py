@@ -5,6 +5,4 @@ model.predict(
     source=r"ultralytics\assets",
     save=True,
     show=False,
-
 )
-
